@@ -9,4 +9,6 @@ print(firstName + ' ' + secondName);
 print("$firstName $secondName"); //modern
 print([1]);//indexing in string
 
+print(firstName.toLowerCase());
+print(firstName.contains('Brian')); //string methods that checks
 }
