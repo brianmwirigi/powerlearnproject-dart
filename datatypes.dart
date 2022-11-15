@@ -1,4 +1,3 @@
-Run | Debug
 void main()
 {
     //data types
