@@ -10,7 +10,7 @@ print("$firstName $secondName"); //modern
 print([1]);//indexing in string
 
 print(firstName.toLowerCase());
-print(firstName.contains('Brian')); //string methods that checks
+print(firstName.toLowerCase.contains('Brian')); //string methods that checks for name and chaining of commands
 print(firstName.split(' ')); //created a list
 //regular expressions
 }
