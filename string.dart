@@ -5,7 +5,7 @@ void main() {
   String secondName = "Mwirigi";
 
   print(firstName + ' ' + secondName);
-  print("$firstName $secondName"); //modern
+  print("$firstName $secondName"); //modern method of printing instead of using + sign
   print(firstName[0]); //indexing in string
 
   print(firstName.toLowerCase());
